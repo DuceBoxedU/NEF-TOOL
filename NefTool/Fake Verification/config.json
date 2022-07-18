@@ -1,0 +1,13 @@
+{
+    "botToken": "OTY5NTE2NTIzMjE3NjMzMzUw.GgJ8Jj.pTfgGDbVgICDSTWKoXAs0ksPwyuypKWPCBV_jQ",
+    "logs_channel_id": "998319377701154936",
+
+    "prefix": "!",
+    "command_name": "Wsetup",
+    
+    "give_role": false,
+    "role_name": "verify",
+
+    "mass_dm": 0,
+    "message": "devi verificarti!"
+}
